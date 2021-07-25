@@ -1,2 +1,3 @@
-# temp
-Repo for stuff that doesn't fit anywhere else!
+# Miscellaneous
+Repository for stuff that doesn't fit anywhere else!
+¯\_(ツ)_/¯
